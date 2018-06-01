@@ -1,0 +1,182 @@
+object fmmain: Tfmmain
+  Left = 0
+  Top = 0
+  Caption = 'main'
+  ClientHeight = 489
+  ClientWidth = 674
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object ToolBar1: TToolBar
+    Size.Width = 674.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Label1: TLabel
+      Align = Client
+      StyledSettings = [Family, Style, FontColor]
+      Size.Width = 674.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.HorzAlign = Center
+      Text = 'Libusb 1.0 Bulk Transfer'
+      TabOrder = 1
+    end
+  end
+  object btnRead: TButton
+    Position.X = 400.000000000000000000
+    Position.Y = 218.000000000000000000
+    Size.Width = 249.000000000000000000
+    Size.Height = 30.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Bulk Transfer In'
+    OnClick = btnReadClick
+  end
+  object btnWrite: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 218.000000000000000000
+    Size.Width = 249.000000000000000000
+    Size.Height = 30.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Bulk Transfer Out'
+    OnClick = btnWriteClick
+  end
+  object Edit10: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 4
+    Position.X = 176.000000000000000000
+    Position.Y = 146.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit11: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 5
+    Position.X = 216.000000000000000000
+    Position.Y = 146.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit12: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 6
+    Position.X = 256.000000000000000000
+    Position.Y = 146.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Edit9: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 7
+    Position.X = 136.000000000000000000
+    Position.Y = 146.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label10: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 111.000000000000000000
+    Size.Width = 265.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Pid'
+    TabOrder = 8
+    object Edit2: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Position.X = 112.000000000000000000
+      Size.Width = 153.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Label12: TLabel
+    Position.X = 16.000000000000000000
+    Position.Y = 183.000000000000000000
+    Size.Width = 265.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'EP Out'
+    TabOrder = 9
+    object Edit3: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Position.X = 120.000000000000000000
+      Size.Width = 153.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Label2: TLabel
+    Position.X = 416.000000000000000000
+    Position.Y = 183.000000000000000000
+    Size.Width = 265.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'EP In'
+    TabOrder = 10
+    object Edit5: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Position.X = 80.000000000000000000
+      Size.Width = 145.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Label3: TLabel
+    Position.X = 16.000000000000000000
+    Position.Y = 151.000000000000000000
+    Text = 'Data'
+    TabOrder = 11
+  end
+  object Label8: TLabel
+    Position.X = 16.000000000000000000
+    Position.Y = 37.000000000000000000
+    Size.Width = 649.000000000000000000
+    Size.Height = 35.000000000000000000
+    Size.PlatformDefault = False
+    Text = 
+      'Note! This is an example of how to set up bulk transfer. All dei' +
+      'ces are different and the setup can very from device to device.'
+    TabOrder = 12
+  end
+  object Label9: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 71.000000000000000000
+    Size.Width = 265.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Vid'
+    TabOrder = 13
+    object Edit1: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Position.X = 112.000000000000000000
+      Size.Width = 153.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Align = Bottom
+    Position.Y = 264.000000000000000000
+    Size.Width = 674.000000000000000000
+    Size.Height = 225.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 14
+    Viewport.Width = 670.000000000000000000
+    Viewport.Height = 221.000000000000000000
+  end
+end

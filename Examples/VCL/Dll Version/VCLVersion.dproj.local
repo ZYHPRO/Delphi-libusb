@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/14 20:14:26.000.891,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 08:57:28.000.814,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 10:28:55.000.930,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:30:19.000.680,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:36:21.000.183,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:09.000.432,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:55.000.796,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/06 16:41:19.000.757,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/08 15:54:02.000.199,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/02 17:09:59.000.518,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/05 10:42:39.000.068,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 09:21:58.000.213,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 09:22:42.000.678,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 09:25:46.000.568,E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\vclmain.pas=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 09:25:46.000.568,E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\vclmain.dfm=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2018/03/01 09:26:04.000.292,E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/03/01 09:26:11.000.742,=E:\AppEarlyDev\FMXLIBUSB1\Src\libusb1.pas</Transaction>
+    <Transaction>2018/03/01 09:29:00.000.458,E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj</Transaction>
+    <Transaction>2018/03/01 09:32:46.000.879,E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj</Transaction>
+    <Transaction>2018/03/01 09:34:46.000.506,E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\VCL\Dll Version\VCLVersion.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

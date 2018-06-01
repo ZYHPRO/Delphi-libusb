@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/14 20:14:26.000.891,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 08:57:28.000.814,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 10:28:55.000.930,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:30:19.000.680,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:36:21.000.183,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:09.000.432,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:55.000.796,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/06 16:41:19.000.757,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/08 15:54:02.000.199,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/02 17:09:59.000.518,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/05 10:42:39.000.068,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/02/03 13:54:45.000.088,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/02/03 13:57:08.000.050,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\main.fmx=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>2018/02/03 13:57:08.000.049,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\main.pas=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/02/03 13:57:18.000.202,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/02/03 13:58:44.000.480,=E:\AppEarlyDev\FMXLIBUSB1\Libusb Master 27.1.2018\Delphi final conversion libusb\final27012018LibUsb_h.pas</Transaction>
+    <Transaction>2018/02/03 15:05:24.000.014,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/05 17:04:10.000.568,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Unit1.pas</Transaction>
+    <Transaction>2018/02/05 17:08:02.000.280,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs_c.pas</Transaction>
+    <Transaction>2018/02/05 17:10:46.000.077,E:\AppEarlyDev\FMXLIBUSB1\Libusb Master 27.1.2018\Delphi final conversion libusb\final27012018LibUsb_h.pas=E:\AppEarlyDev\FMXLIBUSB1\Libusb Master 27.1.2018\Delphi final conversion libusb\libusb1.pas</Transaction>
+    <Transaction>2018/02/05 17:41:01.000.302,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs_c.pas=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs.pas</Transaction>
+    <Transaction>2018/02/05 17:41:23.000.509,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs.pas=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevices.pas</Transaction>
+    <Transaction>2018/02/05 18:12:26.000.467,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/05 18:14:16.000.073,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/07 16:40:38.000.302,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/07 17:20:05.000.983,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/08 16:53:21.000.451,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/14 18:50:55.000.151,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/15 17:41:03.000.500,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/15 18:00:47.000.650,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/15 18:46:17.000.874,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/16 16:58:27.000.931,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Unit1.pas</Transaction>
+    <Transaction>2018/02/21 11:35:50.000.190,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/02/22 12:02:41.000.004,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/02/22 15:15:12.000.474,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/03/11 16:14:01.000.034,=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\testlibusb.pas</Transaction>
+    <Transaction>2018/03/11 16:21:17.000.065,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\Libusbdev1.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/03/11 16:21:33.000.414,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\Unit1.pas=</Transaction>
+    <Transaction>2018/03/11 16:23:08.000.202,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\Libusbdev1.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/03/11 16:23:59.000.732,=E:\AppEarlyDev\FMXLIBUSB1\Src\libusb1.pas</Transaction>
+    <Transaction>2018/03/11 16:53:09.000.334,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/04/26 13:55:03.000.024,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/04/26 13:55:11.000.683,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/04/26 14:16:52.000.226,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/04/26 14:18:54.000.588,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/04/26 14:51:30.000.267,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/18 19:03:07.000.875,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/19 12:38:16.000.010,=E:\AppEarlyDev\FMXLIBUSB1\Src\libusb1helper.pas</Transaction>
+    <Transaction>2018/05/20 14:35:37.000.520,E:\AppEarlyDev\FMXLIBUSB1\Src\libusb1helper.pas=</Transaction>
+    <Transaction>2018/05/20 16:33:12.000.391,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/20 19:21:09.000.332,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/20 19:24:01.000.984,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/21 12:34:31.000.273,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/21 13:27:31.000.250,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 12:15:08.000.293,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 12:16:22.000.947,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 12:44:44.000.150,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 12:51:55.000.845,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 13:06:41.000.166,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 13:16:33.000.244,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 16:05:46.000.139,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/22 19:18:19.000.197,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/23 09:36:06.000.364,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/23 10:11:46.000.723,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/23 10:13:07.000.508,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+    <Transaction>2018/05/25 15:44:49.049,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Test LibUsb\LibusbTestusb.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\..\FMXLIBUSB1"/>
+    <File Path="..\..\..\Src"/>
+    <File Path="..\..\..\Src\libusb1.pas"/>
+    <File Path="main.pas"/>
+    <File Path="main.fmx"/>
+    <File Path="testlibusb.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/14 20:14:26.000.891,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 08:57:28.000.814,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 10:28:55.000.930,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:30:19.000.680,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:36:21.000.183,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:09.000.432,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:55.000.796,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/06 16:41:19.000.757,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/08 15:54:02.000.199,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/02 17:09:59.000.518,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/05 10:42:39.000.068,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/02/03 13:54:45.000.088,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/02/03 13:57:08.000.050,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\main.fmx=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>2018/02/03 13:57:08.000.049,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\main.pas=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/02/03 13:57:18.000.202,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/02/03 13:58:44.000.480,=E:\AppEarlyDev\FMXLIBUSB1\Libusb Master 27.1.2018\Delphi final conversion libusb\final27012018LibUsb_h.pas</Transaction>
+    <Transaction>2018/02/03 15:05:24.000.014,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/05 17:04:10.000.568,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Unit1.pas</Transaction>
+    <Transaction>2018/02/05 17:08:02.000.280,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs_c.pas</Transaction>
+    <Transaction>2018/02/05 17:10:46.000.077,E:\AppEarlyDev\FMXLIBUSB1\Libusb Master 27.1.2018\Delphi final conversion libusb\final27012018LibUsb_h.pas=E:\AppEarlyDev\FMXLIBUSB1\Libusb Master 27.1.2018\Delphi final conversion libusb\libusb1.pas</Transaction>
+    <Transaction>2018/02/05 17:41:01.000.302,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs_c.pas=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs.pas</Transaction>
+    <Transaction>2018/02/05 17:41:23.000.509,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevs.pas=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\listdevices.pas</Transaction>
+    <Transaction>2018/02/05 18:12:26.000.467,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/05 18:14:16.000.073,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/07 16:40:38.000.302,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/07 17:20:05.000.983,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/08 16:53:21.000.451,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/14 18:50:55.000.151,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/15 17:41:03.000.500,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/15 18:00:47.000.650,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/15 18:46:17.000.874,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj</Transaction>
+    <Transaction>2018/02/16 16:58:27.000.931,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Unit1.pas</Transaction>
+    <Transaction>2018/02/21 11:35:50.000.190,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/02/22 12:02:41.000.004,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/02/22 15:15:12.000.474,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/02/28 19:48:56.000.441,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\Dll Version\Libusbdev1.dproj</Transaction>
+    <Transaction>2018/02/28 20:08:34.000.290,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/02/28 20:10:34.000.067,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/02/28 20:11:51.000.479,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/02/28 20:18:24.000.773,=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Library\libusb1.pas</Transaction>
+    <Transaction>2018/02/28 20:22:45.000.803,E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examplelibusb1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/03/01 09:10:02.000.364,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\main.pas=</Transaction>
+    <Transaction>2018/03/01 09:10:53.000.231,=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\main.pas</Transaction>
+    <Transaction>2018/03/01 09:11:09.000.345,=E:\AppEarlyDev\FMXLIBUSB1\Src\libusb1.pas</Transaction>
+    <Transaction>2018/03/01 09:11:52.000.534,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/03/01 09:33:45.000.733,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/05/06 16:21:14.000.418,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+    <Transaction>2018/05/23 10:35:04.635,E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj=E:\AppEarlyDev\FMXLIBUSB1\Examples\FMX\Dll Version\Libusb1Version.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\..\FMXLIBUSB1"/>
+    <File Path="..\..\..\Src"/>
+    <File Path="..\..\..\Src\libusb1.pas"/>
+    <File Path="main.pas"/>
+    <File Path="main.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
