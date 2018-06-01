@@ -1,0 +1,212 @@
+unit libusb1helper;
+
+interface
+uses libusb1,System.SysUtils, System.Variants,FMX.Dialogs;
+
+//function libusb_get_device_from_no(device_no:integer):pplibusb_device;
+function Getlibusbdeviceclass(dcno:uint8):string;
+function Getlibusbdevicetype(dcno:uint8):string;
+function endpointdirection(epno:uint8):string;
+function Getlibusbcapabilitytype(dcno:uint8):string;
+function endpointdirection(epno:uint8):string;
+
+implementation
+
+
+(*function libusb_get_device_from_no(device_no:integer):pplibusb_device;
+procedure extrainfo(dev: plibusb_device);
+ var
+i,j,k,r,s:integer;
+desc:Libusb_device_descriptor;
+config:plibusb_config_descriptor;
+begin
+r:= libusb_get_device_descriptor(dev,@desc);
+
+if r < 0 then
+begin
+memo.lines.add('failed to get device descriptor');
+exit;
+ end
+ else
+ begin
+ //format
+ memo.lines.add('    VID : '+inttostr(desc.idVendor)+ '     PID : '+inttostr(desc.idProduct)+
+ '    Bus '+inttostr(libusb_get_bus_number(dev))+'    Device  '+inttostr(libusb_get_device_address(dev)));
+   end;
+ end;
+var
+  i, count: ssize_t;
+  r: integer;
+  devs: pplibusb_device;
+  handle:plibusb_device_handle;
+  arrdev: array of plibusb_device;
+begin
+  context := nil; // declare the pointer to null
+  r := libusb_init(context);
+  if r <> 0 then
+  begin
+    Showmessage('Cannot initialize the DLL Device Value ' + r.ToString +
+      'is less than 0');
+   if not handle = nil then
+     begin
+     libusb_release_interface(handle,0);
+     libusb_close(handle);
+     end;
+    exit;
+  end
+  else
+  begin
+     count := libusb_get_device_list(context, @devs);
+   // uses the referenced pointer
+   setlength(arrdev, count);
+  libusb_free_device_list(devs, 1); // we now know how many devices there are
+
+  if count < 1 then
+  begin
+    memo.lines.add('No devices found ');
+    exit;
+  end
+  else
+  begin
+
+    libusb_get_device_list(context, @arrdev); // set new devicelist with dev
+
+    memo.lines.add('USB  Activate Devices found  :' + inttostr(count));
+    memo.lines.add('');
+    memo.lines.add('  Device VID / PID     Device extended Information');
+    memo.lines.add('-------------------------------------------------------');
+    for i := 0 to count - 1 do
+    begin
+      memo.lines.add('USB Device on system - no ' + inttostr(i + 1));
+    extrainfo(arrdev[i],memo);
+     end;
+    libusb_exit(context);
+  end;
+end;
+
+
+end;  *)
+
+function Getlibusbdeviceclass(dcno:uint8):string;
+var
+no:integer;
+begin
+result:= 'Undefined';
+no:= dcno;
+case no of
+ 0:result:='LIBUSB_CLASS_PER_INTERFACE';
+ 1: result:='LIBUSB_CLASS_AUDIO' ;
+ 2:  result:='LIBUSB_CLASS_COMM';
+ 3: result:= 'LIBUSB_CLASS_HID';
+ 5: result:= 'LIBUSB_CLASS_PHYSICAL';
+ 7: result:= 'LIBUSB_CLASS_PRINTER';
+ 6: result:='LIBUSB_CLASS_PTP or LIBUSB_CLASS_IMAGE';
+ 8: result:='LIBUSB_CLASS_MASS_STORAGE';
+ 9: result:='LIBUSB_CLASS_HUB';
+ 10:result:='LIBUSB_CLASS_DATA';
+ 11:result:='LIBUSB_CLASS_SMART_CARD';
+ 13 :result:='LIBUSB_CLASS_CONTENT_SECURITY ';
+ 14:result:='LIBUSB_CLASS_VIDEO';
+ 15:result:='LIBUSB_CLASS_PERSONAL_HEALTHCARE';
+ 220:result:='LIBUSB_CLASS_DIAGNOSTIC_DEVICE';
+ 224:result:='LIBUSB_CLASS_WIRELESS';
+ 239:result:='LIBUSB_CLASS_APPLICATION';
+ 255:result:='LIBUSB_CLASS_VENDOR_SPEC';
+ end;
+end;
+
+//bmdescriptortype
+function Getlibusbdevicetype(dcno:Uint8):string;
+var
+no:integer;
+begin
+result:= 'Undefined';
+no:= dcno;
+case no of
+ 1: result:='LIBUSB_DT_DEVICE';
+ 2:result:='LIBUSB_DT_CONFIG';
+ 3:result:='LIBUSB_DT_STRING';
+ 4:result:='LIBUSB_DT_INTERFACE';
+ 5:result:='LIBUSB_DT_ENDPOINT';
+ 15:result:='LIBUSB_DT_BOS';
+ 16:result:='LIBUSB_DT_DEVICE_CAPABILITY';
+ 33:result:='LIBUSB_DT_HID';
+ 34:result:= 'LIBUSB_DT_REPORT';
+ 36:result:='LIBUSB_DT_PHYSICAL';
+ 41:result:='LIBUSB_DT_HUB';
+ 42:result:='LIBUSB_DT_SUPERSPEED_HUB';
+ 48:result:='LIBUSB_DT_SS_ENDPOINT_COMPANION';
+ end;
+ end;
+//bmDevCapibilitytype
+function Getlibusbcapabilitytype(dcno:Uint8):string;
+var
+no:integer;
+begin
+result:= 'Undefined';
+no:= dcno;
+case no of
+ 1:result:='LIBUSB_BT_WIRELESS_USB_DEVICE_CAPABILITY';
+ 2:result:='LIBUSB_BT_USB_2_0_EXTENSION';
+ 3:result:='LIBUSB_BT_SS_USB_DEVICE_CAPABILITY';
+ 4:result:=' LIBUSB_BT_CONTAINER_ID';
+
+ end;
+ end;
+
+//bmAttributes speed mode
+function Getlibusbspeed(dcno:Uint8):string;
+var
+no:integer;
+begin
+result:= 'Undefined';
+no:= dcno;
+case no of
+1:result:='LIBUSB_LOW_SPEED_OPERATION';
+2:result:='LIBUSB_FULL_SPEED_OPERATION';
+3:result:='LIBUSB_HIGH_SPEED_OPERATION';
+8:result:='LIBUSB_SUPER_SPEED_OPERATION';
+  end;
+ end;
+
+
+function Getlibusboperatingspeed(dcno:Uint8):string;
+var
+no:integer;
+begin
+result:= 'Undefined';
+no:= dcno;
+case no of
+0:result:='LIBUSB_SPEED_UNKNOWN';
+1:result:='LIBUSB_SPEED_LOW';
+2:result:='LIBUSB_SPEED_FULL';
+3:result:='LIBUSB_SPEED_HIGH';
+4:result:='LIBUSB_SPEED_SUPER';
+5:result:='LIBUSB_SPEED_SUPER_PLUS';
+  end;
+ end;
+
+function endpointdirection(epno:uint8):string;
+var
+no:integer;
+begin
+no:= epno;
+case no of
+128:result:='LIBUSB_ENDPOINT_IN';
+0:result:='LIBUSB_ENDPOINT_OUT';
+ end;
+end;
+
+
+function ExtractbitsRl(value,startbits,bitlength:integer):integer;
+begin
+result:= ((value shr(9-startbits)-bitlength) and ((1 shl bitlength) -1));
+end;
+
+
+
+
+
+
+
+end.
